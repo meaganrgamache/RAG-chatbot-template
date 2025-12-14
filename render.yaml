@@ -1,3 +1,5 @@
+previews:
+  generation: automatic
 projects:
   - name: rag-chatbot-example
     environments:
