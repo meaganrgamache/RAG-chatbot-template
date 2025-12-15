@@ -1,7 +1,7 @@
 previews:
   generation: automatic
 projects:
-  - name: rag-chatbot-example
+  - name: rag-chatbot
     environments:
       - name: production
         services:
