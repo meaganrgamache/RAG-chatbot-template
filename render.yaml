@@ -1,5 +1,9 @@
 previews:
   generation: automatic
+projects:
+  - name: rag-chatbot
+    environments:
+      - name: production
         services:
           # Backend API service
           - type: web
