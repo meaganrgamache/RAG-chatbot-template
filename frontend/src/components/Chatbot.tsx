@@ -23,7 +23,7 @@ export function Chatbot() {
     {
       id: '1',
       role: 'assistant',
-      content: 'Bonjour! I\'m your chatbot assistant. How can I help you today?',
+      content: 'Salut! I\'m your chatbot assistant. How can I help you today?',
       timestamp: new Date(),
     },
   ])
